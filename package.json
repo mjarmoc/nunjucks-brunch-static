@@ -1,0 +1,22 @@
+{
+  "name": "nunjucks-brunch-static",
+  "version": "0.0.1",
+  "description": "Nunjucks processor for brunch-static.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "nunjucks",
+    "brunch",
+    "brunch-static"
+  ],
+  "author": {
+    "name": "Michal Jarmoc",
+    "email": "m.jarmoc@post.pl",
+    "url": "https://github.com/mjarmoc"
+  },
+  "homepage": "https://github.com/mjarmoc/nunjucks-brunch-static",
+  "license": "MIT",
+  "dependencies": {
+    "nunjucks": "^3.0.0",
+  }
+}
