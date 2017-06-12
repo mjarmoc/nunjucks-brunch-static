@@ -1,5 +1,6 @@
 const nunjucks = require('nunjucks');
 var env = nunjucks.configure('app/templates', {
+    autoescape: false,
     stripBlocks: true,
     trimBlocks: true,
     tags: {
